@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.0",
+  "iOS" : [
+    {
+      "name" : "SwiftRandom",
+      "hash" : "2f153195894e14e830a3c06bc6381123158561d230c0a87bb03f85e99709091b"
+    }
+  ]
+}
